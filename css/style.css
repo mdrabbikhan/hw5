@@ -1,0 +1,35 @@
+table{width: 400px;
+border-spacing: 40px;}
+th,td{text-align: center;}
+caption{text-align: left;}
+
+table,th ,td {border:1px solid #000;
+border-collapse: collapse;background-color: lightskyblue;}
+th,td{padding: 10px;}
+
+.header{text-align: center;
+	height: 100px;background-color:rgba(106,102,148,0.44);}
+.container{overflow: hidden;
+
+}
+.blog{text-align: center;
+	float: left;
+	width: 40%;
+	height: 200px;background-color:rgba(219, 96, 303, 0.44);
+
+}
+.contact{text-align: center;
+	float: right;
+	width: 55%;
+	height: 200px;background-color:rgba(254, 0,220,0.44);}
+
+.box{text-align: center;
+	float: left;
+	height: 150px;width: 30%;}
+.red{background-color:rgba(38, 104, 130, 1);}
+.green{background-color:rgba(56, 135, 152, 1);}
+.blue{background-color:rgba(47, 108, 255,0.37);}
+
+
+	.footer{text-align: center;
+		height: 100px;background-color:rgba(102, 237, 55, 0.73);}
